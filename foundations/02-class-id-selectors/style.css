@@ -1,0 +1,15 @@
+p{
+    background-color: #ff000080;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#one{
+    color: blue;
+    font-size: 36px;
+}
+#another{
+    background-color: #00ff0080;
+    font-size: 24px;
+    font-weight: bold;
+}
